@@ -2,7 +2,7 @@
 
 Link:
 - Menggambar Huruf: https://cg2021a.github.io/menggambar-primitif-timmtimm/Menggambar%20Huruf/index.html
-- Menggambar Primitif: https://cg2021a.github.io/menggambar-primitif-timmtimm/Menggambar%20Primitf/index.html
+- Menggambar Primitif: https://cg2021a.github.io/menggambar-primitif-timmtimm/Menggambar%20Primtif/index.html
 
 Konten:
 - Menggambar Titik
